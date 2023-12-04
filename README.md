@@ -1,4 +1,4 @@
-using chant gpt from your site
+using chat gpt from your site
 how to start project:
 - add account at ```https://platform.openai.com/api-keys```
 - get api key
